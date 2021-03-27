@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme:nelsoncnwauche/not-pure-poole
+remote_theme: nelsoncnwauche/not-pure-poole
 plugins:
   - jekyll-feed
 
